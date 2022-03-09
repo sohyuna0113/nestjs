@@ -1,4 +1,6 @@
-### 정리노트
+## 정리노트
+
+[Notion](https://melon-bangle-a01.notion.site/NestJS-a67e816d616e4232ae156d51f2e60831)
 <p align="center">
   <a href="https://melon-bangle-a01.notion.site/NestJS-a67e816d616e4232ae156d51f2e60831"> </a>
 <p>
